@@ -1,0 +1,24 @@
+# Fichiers temporaires et cache
+.import/
+.export/
+.cache/
+mono/
+*.tmp
+*.import
+*.translation
+*.godot/ (Godot 4)
+
+# Fichiers de builds
+*.exe
+*.dll
+*.so
+*.dylib
+*.apk
+*.pck
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# VSCode (si tu utilises cet éditeur)
+.vscode/
