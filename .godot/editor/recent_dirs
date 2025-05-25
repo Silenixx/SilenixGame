@@ -1,4 +1,8 @@
+res://scenes/components
+res://scenes/objects/trees
+res://scenes/houses
+res://assets/game/tilesets
+res://TileSets
 res://assets/game/characters
 res://scenes/characters/player
-res://TileSets
 res://scenes/test
